@@ -1,0 +1,297 @@
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe.config
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.pdb
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChinh.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietHoaDon.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietMuaHang.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChucVu.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangKy.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangNhap.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormHangSanXuat.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhachHang.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhuyenMai.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoadding.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoaiSanPham.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhanVien.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhaPhanPhoi.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormPhieuNhap.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormSanPhamKhachXem.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongKe.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTimKiem.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.frmKH.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FromSanPham.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeDoanhDu.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeSanPham.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.pdb
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongTinKhach.resources
+C:\Users\Admin\Desktop\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormInPhieuNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe.config
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\stdole.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChinh.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietHoaDon.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietMuaHang.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietPhieuNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChucVu.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangKy.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormHangSanXuat.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormInPhieuNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhachHang.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhuyenMai.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoadding.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoaiSanPham.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhanVien.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhaPhanPhoi.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormPhieuNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormSanPhamKhachXem.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTaiKhoan.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongKe.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongTinKhach.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTimKiem.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.frmKH.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FromSanPham.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeDoanhDu.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeSanPham.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.exe
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test.mdf
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test_log.ldf
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangNhapQA.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDoiMatKhau.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormQuenMatKhau.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormBackup.resources
+C:\Users\hoang\OneDrive\Máy tính\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeHoaDonTheoNgay.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test.mdf
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test_log.ldf
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe.config
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.pdb
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormBackup.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChinh.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietHoaDon.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietMuaHang.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChucVu.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangKy.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangNhapQA.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormHangSanXuat.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormInPhieuNhap.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhachHang.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhuyenMai.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoadding.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoaiSanPham.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhanVien.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhaPhanPhoi.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormPhieuNhap.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormQuenMatKhau.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormSanPhamKhachXem.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongKe.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongTinKhach.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTimKiem.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.frmKH.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FromSanPham.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeDoanhDu.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeHoaDonTheoNgay.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeSanPham.resources
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\doan\DoAn_Shopppppp\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.pdb
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test.mdf
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test_log.ldf
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe.config
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.pdb
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormBackup.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChinh.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietHoaDon.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietMuaHang.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietPhieuNhap.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChucVu.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangKy.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangNhapQA.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormHangSanXuat.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormInPhieuNhap.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhachHang.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhuyenMai.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoadding.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoaiSanPham.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhanVien.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhaPhanPhoi.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormPhieuNhap.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormQuenMatKhau.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormSanPhamKhachXem.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongKe.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongTinKhach.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTimKiem.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.frmKH.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FromSanPham.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeDoanhDu.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeHoaDonTheoNgay.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeSanPham.resources
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.exe
+C:\Users\Admin\Desktop\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.pdb
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe.config
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.exe
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.pdb
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormBackup.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChinh.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietHoaDon.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietMuaHang.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChiTietPhieuNhap.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormChucVu.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangKy.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDangNhapQA.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormDoiMatKhau.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormHangSanXuat.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormInPhieuNhap.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhachHang.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormKhuyenMai.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoadding.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormLoaiSanPham.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhanVien.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormNhaPhanPhoi.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormPhieuNhap.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormQuenMatKhau.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormSanPhamKhachXem.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTaiKhoan.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongKe.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormThongTinKhach.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FormTimKiem.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.frmKH.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.FromSanPham.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.Properties.Resources.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeDoanhDu.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeHoaDonTheoNgay.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.ThongKeSanPham.resources
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.GenerateResource.Cache
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test.mdf
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\test_log.ldf
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.exe
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\DoAn_Shopppppp.pdb
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\AxShockwaveFlashObjects.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Shared.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\FontAwesome.Sharp.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\ShockwaveFlashObjects.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\stdole.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.AssemblyReference.cache
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CoreCompileInputs.cache
+D:\DULIEUHOCTAP\Ki3\DoAnNet\QuanLy_ShopThoiTrang\DoAn_Shopppppp\DoAn_Shopppppp\obj\Debug\DoAn_Shopppppp.csproj.CopyComplete
